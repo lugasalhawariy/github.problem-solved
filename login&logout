@@ -1,0 +1,4 @@
+Logout dari Terminal gitbash: Control panel > user accounts > credential manager > Windows credentials > Generic credentials
+Login pakai email dari terminal gitbash: git config --global user.email "your_email_address@example.com"
+Login pakai username dari terminal gitbash: git config --global user.name "your_username"
+Cek username dan email pada gitbash: git config --global --list
